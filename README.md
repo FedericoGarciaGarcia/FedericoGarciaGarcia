@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![cover](https://raw.githubusercontent.com/FedericoGarciaGarcia/FedericoGarciaGarcia/master/cover.png)
+
+Hi, welcome to my Github page. I'm a Computer Science Engineer who likes AI, robots, video games, virtual reality, and all things visual.
+
+You can read more about me at [my personal site](https://federicogarcia.site/).
